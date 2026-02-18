@@ -1,0 +1,48 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "histplot",
+    "xticks",
+    "scatterplot",
+    "xlabel",
+    "ylabel",
+    "preds",
+    "ap",
+    "recon_norm",
+    "anom_norm",
+    "recon_error_test",
+    "recon_error_train",
+    "anomaly_scores_test",
+    "anomaly_scores_train",
+    "X_train_scaled",
+    "X_test_scaled",
+    "txn_dummies",
+    "txnType",
+    "initiator_drained",
+    "recipient_spike",
+    "amt_ratio_initiator",
+    "amt_ratio_recipient",
+    "net_flow",
+    "unique_recipients",
+    "unique_initiators",
+    "recipient_diversity",
+    "txn_count_24h",
+    "txn_sum_24h",
+    "rolling_amt_24h",
+    "MLPRegressor",
+    "IsolationForest",
+    "MinMaxScaler",
+    "RobustScaler",
+    "precision_recall_curve"
+  ],
+  "ignoreRegExpList": [
+    "\\b[a-zA-Z]{1,3}\\b",    
+    "\\b[a-zA-Z]+_?\\d+\\b"
+  ],
+  "ignorePaths": [
+    "**/.ipynb_checkpoints/**",
+    "**/*.ipynb"
+  ],
+  "allowCompoundWords": true
+}

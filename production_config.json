@@ -1,6 +1,0 @@
-{
-  "optimal_threshold": 0.25,
-  "model": "xgboost",
-  "expected_f1": 0.09606901761996442,
-  "test_auc": 0.5096414664940395
-}
